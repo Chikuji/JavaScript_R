@@ -44,7 +44,7 @@ No Thunder Client crie uma chamada POST
     - localhost:3000/ola
         Budy:
             {
-                "ola":"Ola do cliente"
+                "ola":"Ola mundo do cliente"
             }
 
 
