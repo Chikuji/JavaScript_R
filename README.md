@@ -1,6 +1,7 @@
 ## JavaScript e R - Olá mundo
 
 Programas:
+
     - Node.js LTS
     - RStudio 4.1.3
     - VS Code 
