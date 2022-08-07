@@ -6,7 +6,7 @@ Programas:
     - RStudio 4.1.3
     - VS Code 
 
-Obs.:
+Obs.1:
 Adicionar o PATH (caminho) de instalação do R nas variáveis de ambiente do Windows
 
     - Ex.C:\Program Files\R\R-4.1.3
@@ -30,17 +30,16 @@ Extensão para VsCode:
 
 Reescreva os arquivos para aprender:
 
-    1 ola_mundo.R 
-    2 ola.js
+    - ola_mundo.R 
+    - ola.js
         No terminal:
         node ola.js
 
-    3 app.js
+    - app.js
         No terminao:
         node app.js
 
-Thunder Client
-Crie uma chamada POST
+No Thunder Client crie uma chamada POST
 
     - localhost:3000/ola
         Budy:
@@ -48,3 +47,5 @@ Crie uma chamada POST
                 "ola":"Ola do cliente"
             }
 
+
+Obs.2: Caso de algum erro no processo, reinicie o computador.
